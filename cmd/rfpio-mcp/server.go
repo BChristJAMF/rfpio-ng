@@ -12,8 +12,8 @@ import (
 	"github.com/mark3labs/mcp-go/mcp"
 	"github.com/mark3labs/mcp-go/server"
 
-	"github.com/bryanchrist/rfpio-go/internal/core"
-	"github.com/bryanchrist/rfpio-go/internal/skills"
+	"github.com/BChristJAMF/rfpio-ng/internal/core"
+	"github.com/BChristJAMF/rfpio-ng/internal/skills"
 )
 
 // ---------------------------------------------------------------------------

@@ -1,4 +1,4 @@
-module github.com/bryanchrist/rfpio-go
+module github.com/BChristJAMF/rfpio-ng
 
 go 1.26.4
 

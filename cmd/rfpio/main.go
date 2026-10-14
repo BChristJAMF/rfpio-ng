@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/bryanchrist/rfpio-go/internal/core"
+	"github.com/BChristJAMF/rfpio-ng/internal/core"
 )
 
 func main() {
