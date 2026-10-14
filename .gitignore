@@ -1,0 +1,12 @@
+# Build output (./build.sh)
+/bin/
+/rfpio
+/rfpio-mcp
+
+# Rollback snapshots hold live content-library records
+/rollback/
+
+# Local config with API credentials
+rfpio-config.json
+
+.DS_Store

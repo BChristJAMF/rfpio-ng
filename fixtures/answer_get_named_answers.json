@@ -1,0 +1,87 @@
+{
+  "alReviewers": [],
+  "alertText": "",
+  "alternateQuestions": "Sample alternate question.",
+  "answerMatch": [
+    "3 - Exceeds requirements",
+    "Sample notes text."
+  ],
+  "answers": [
+    {
+      "answerSourceType": "",
+      "key": "Self Score",
+      "type": "SINGLE",
+      "value": "3 - Exceeds requirements"
+    },
+    {
+      "answerSourceType": "",
+      "key": "Notes/Justification",
+      "type": "RICH_TEXT",
+      "value": "<div>Sample notes text.</div>"
+    }
+  ],
+  "approvers": [],
+  "businessUnits": [],
+  "collectionList": [],
+  "companyId": "000000000000000000000000",
+  "contentScore": 66,
+  "contentType": "ANSWER",
+  "contentUrl": "https://app.example.com/v2/content-library/content-view/62a000000000000000000002?companyId=000000000000000000000000",
+  "createdBy": "user@example.com",
+  "createdDate": "2025-11-11 14:27:11 -08:00",
+  "customFields": {
+    "Product": "Sample Product"
+  },
+  "customReviewCycleInDays": -1,
+  "displayId": "",
+  "dueDate": "",
+  "editPrivacySetting": [],
+  "externalUsedSource": [],
+  "followUpDates": [],
+  "hasCatalogReview": false,
+  "hasDocumentReview": false,
+  "hasImage": false,
+  "hasOnDemandReview": false,
+  "hasRetainedCopy": false,
+  "hasSectionTemplateReview": false,
+  "id": "62a000000000000000000002",
+  "language": "",
+  "languageReviewers": [],
+  "lastReviewedOn": "",
+  "lastUsedDate": "2026-03-20 09:20:04 -07:00",
+  "linkId": "",
+  "moderationContentId": "",
+  "numUsed": 6,
+  "onDemandReviewWorkflow": "",
+  "openCommentCount": 0,
+  "owners": [
+    {
+      "email": "owner@example.com"
+    }
+  ],
+  "pendingId": "",
+  "privacySetting": [],
+  "projectFiles": [],
+  "projectName": "Sample Project",
+  "question": "Sample question for an entry with named answers",
+  "relatedTo": [],
+  "reviewFlag": false,
+  "reviewId": "",
+  "reviewStatus": false,
+  "reviewWorkflow": "",
+  "reviewedList": [],
+  "sectionName": "Sample Section",
+  "sharedBUs": [],
+  "source": "PROJECT",
+  "standardResponse": "",
+  "starRating": 3,
+  "status": "ACTIVE",
+  "subscriptionByList": [],
+  "tags": [
+    "Sample",
+    "Example"
+  ],
+  "updateBy": "user@example.com",
+  "updateDate": "2026-03-20 09:19:58 -07:00",
+  "verbatim": false
+}

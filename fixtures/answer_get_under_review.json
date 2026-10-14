@@ -1,0 +1,71 @@
+{
+  "alReviewers": [],
+  "alternateQuestions": "",
+  "answerMatch": [
+    "Sample answer text."
+  ],
+  "answers": [
+    {
+      "answerSourceType": "",
+      "key": "Response",
+      "type": "RICH_TEXT",
+      "value": "<div>Sample answer text.</div>"
+    }
+  ],
+  "approvers": [],
+  "businessUnits": [],
+  "collectionList": [],
+  "companyId": "000000000000000000000000",
+  "contentScore": 66,
+  "contentType": "ANSWER",
+  "contentUrl": "https://app.example.com/v2/content-library/content-view/62a000000000000000000001?companyId=000000000000000000000000",
+  "createdBy": "user@example.com",
+  "createdDate": "2022-06-02 12:13:54 -07:00",
+  "customFields": {},
+  "customReviewCycleInDays": 90,
+  "displayId": "",
+  "dueDate": "2026-10-16",
+  "editPrivacySetting": [],
+  "externalUsedSource": [],
+  "followUpDates": [],
+  "hasCatalogReview": false,
+  "hasDocumentReview": false,
+  "hasImage": false,
+  "hasOnDemandReview": false,
+  "hasRetainedCopy": false,
+  "hasSectionTemplateReview": false,
+  "id": "62a000000000000000000001",
+  "language": "",
+  "languageReviewers": [],
+  "lastReviewedOn": "2026-07-20",
+  "lastUsedDate": "2025-12-30 12:04:00 -08:00",
+  "linkId": "",
+  "numUsed": 11,
+  "onDemandReviewWorkflow": "",
+  "openCommentCount": 0,
+  "owners": [
+    "owner@example.com"
+  ],
+  "privacySetting": [],
+  "projectFiles": [],
+  "projectName": "Sample Project",
+  "question": "Sample question for an entry that is under review",
+  "relatedTo": [],
+  "reviewFlag": false,
+  "reviewStatus": true,
+  "reviewWorkflow": "ANY",
+  "reviewedList": [],
+  "sectionName": "Sample Section",
+  "sharedBUs": [],
+  "source": "PROJECT",
+  "standardResponse": "",
+  "starRating": 5,
+  "status": "ACTIVE",
+  "subscriptionByList": [],
+  "tags": [
+    "Sample"
+  ],
+  "updateBy": "user@example.com",
+  "updateDate": "2026-08-18 09:06:46 -07:00",
+  "verbatim": false
+}
